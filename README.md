@@ -9,10 +9,11 @@
   ```console
   pip install -r requirements.txt
   ```
-- Compile using the command below
+- Compile to standalone binary for easier deployment
 
   ```bash
-
+  pip install -U pyinstaller
+  pyinstaller main.py
   ```
 - Deploy to target
 - Start telegram bot
@@ -28,3 +29,5 @@
     /webcam                - Take image if webcam is supported
     /video <duration(sec)> - Record video from webcam
   ```
+
+### Screenshots

@@ -36,7 +36,6 @@
   <img src="https://github.com/Tomiwa-Ot/telegram-c2/assets/37912743/888bdc50-56f9-4fef-a0f0-8567184a9230" width="50%" /><br />
   <img src="https://github.com/Tomiwa-Ot/telegram-c2/assets/37912743/7413d748-29d9-42a2-85de-1f82683a4a7d" width="50%" /><br />
   <img src="https://github.com/Tomiwa-Ot/telegram-c2/assets/37912743/2e1657db-0594-473a-bbe9-12111b4a9717" width="50%" /><br />
-  <img src="https://github.com/Tomiwa-Ot/telegram-c2/assets/37912743/888bdc50-56f9-4fef-a0f0-8567184a9230" width="50%" /><br />
   <img src="https://github.com/Tomiwa-Ot/telegram-c2/assets/37912743/87378bbf-a403-497a-80be-d813c9d3e711" width="50%" /><br />
   <img src="https://github.com/Tomiwa-Ot/telegram-c2/assets/37912743/a741afbf-0441-4522-b311-346de9048527" width="50%" /><br />
 </div>

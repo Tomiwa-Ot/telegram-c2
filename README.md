@@ -2,6 +2,8 @@
   Command and control a server via telegram bots.
 
 ### Installation 
+  [![Tutorial Video](https://img.youtube.com/vi/wphhZOS8cuI/0.jpg)](https://www.youtube.com/watch?v=wphhZOS8cuI)
+
 - Create a telegram bot
 - Edit main.py, set ```BOT_API_KEY``` to the bot's api key and ```telegram_user_id``` to your telegram id
 - Install the following dependencies
